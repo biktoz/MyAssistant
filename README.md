@@ -1,3 +1,8 @@
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Documentation Status](https://readthedocs.org/projects/ansicolortags/badge/?version=latest)](http://ansicolortags.readthedocs.io/?badge=latest)
+![Maintainer](https://img.shields.io/badge/maintainer-Biktoz-blue)
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 # Disclaimer
 1. **I'll don't take any responsibility for the use you will make of this bot**
 2. Some commands of my bot are written in Italian, because I personally use it for my PC, so along the command i'll provvide the traduction from italian to english
