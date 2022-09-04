@@ -27,4 +27,4 @@ This is a telegram Bot, made in Python, which can control your computer
 `/cmd mkdir testFolder` It will create a folder named _"testFolder"_ at the current path<br />
 `/kill chrome.exe` It will close Google Chrome<br />
 `/url www.github.com` It will open GitHub in your PC browser<br />
-`/cerca best resturant in Italy` It will search _"best resturant in Italy"_ in Google<br />
+`/cerca best restaurant in Italy` It will search _"best restaurant in Italy"_ in Google<br />
