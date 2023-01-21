@@ -3,6 +3,8 @@
 ![Maintainer](https://img.shields.io/badge/maintainer-Biktoz-blue)
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
+![The Logo](Logo.png)
+
 # 🤖MyAssistant🤖
 This is a telegram Bot, made in Python, which can control your computer
 
