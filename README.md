@@ -8,6 +8,9 @@
 # 🤖 MyAssistant
 This is a telegram Bot, made in Python, which can control your computer
 
+# ⛔️ Disclaimer
+**I'll don't take any responsibility for the use you will make of this bot**
+
 # ⌨️ Commands
 `/start` It starts the bot and send a message<br />
 `/shutdown` It will shutdown your PC<br />
@@ -26,5 +29,4 @@ This is a telegram Bot, made in Python, which can control your computer
 `/url www.github.com` It will open GitHub in your PC browser<br />
 `/search best restaurant in Italy` It will search _"best restaurant in Italy"_ in Google<br />
 
-# ⛔️ Disclaimer
-1. **I'll don't take any responsibility for the use you will make of this bot**
+
